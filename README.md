@@ -7,3 +7,6 @@ U, D, C, L, and R refer to their respective pieces, holding shift while holding 
 Tap left or right on the arrow keys to move the clock faces in that direction.
 Pressing enter causes the calculator to take in the data and give you the numbers you need, if it gives "-6" at any point just treat it the same as 6.
 I highly suggest that you know my method tutorial and pin order before using the calculator. The video can be found at the YouTube channel @The_Chai_Mimikyu or by searching "Dragonfly Clock method tutorial".
+
+UPDATE 1.1:
+On the first screen, click either S for sheerin, 7 for 7-simul, or D for dragonfly and then use the calculator as normal. It assumes 12 is the top point so if it doesn't work for a different position oh well.
